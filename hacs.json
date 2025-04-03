@@ -1,0 +1,7 @@
+{
+  "name": "otodata_ble",
+  "domains": ["scale"],
+  "iot_class": "Local Push",
+  "render_readme": true,
+  "homeassistant": "2024.6.0"
+}
