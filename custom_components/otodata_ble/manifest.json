@@ -5,7 +5,7 @@
   "documentation": "https://www.home-assistant.io/integrations/otodata_ble",
   "bluetooth": [
     {
-      "local_name": "level:*",
+      "manufacturer_id": 945,
       "connectable": false
     }
   ],
